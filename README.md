@@ -1,4 +1,4 @@
-# template-matcher
+# template-matcher [![Build Status](https://travis-ci.org/bealearts/template-matcher.svg)](https://travis-ci.org/bealearts/template-matcher)
 
 [lodash.template](https://www.npmjs.com/package/lodash.template) pattern matching extracted into an seperate module
 
