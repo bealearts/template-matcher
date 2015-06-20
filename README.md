@@ -15,3 +15,6 @@ var matcher = require('template-matcher');
 var matches = matcher('<div><input type="${attr}"/>${content}</div>', /* options */);	// Same params as lodash.template
 console.log(matches);	// ['attr', 'content']
 ```
+
+## Credit
+See [lodash.template](https://www.npmjs.com/package/lodash.template)
